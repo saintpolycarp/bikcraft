@@ -1,0 +1,10 @@
+@import url('./global/global.css');
+@import url('./global/typography.css');
+@import url('./global/color.css');
+@import url('./global/header.css');
+
+@import url('./home/intro.css');
+@import url('./home/tech.css');
+@import url('./components/components.css');
+
+@import url('./bicycles/bicycles-list.css');
